@@ -1,0 +1,14 @@
+C:\Users\vishalmil\source\repos\AsyncDay1\AsyncDay1\bin\Debug\net8.0\AsyncDay1.exe
+C:\Users\vishalmil\source\repos\AsyncDay1\AsyncDay1\bin\Debug\net8.0\AsyncDay1.deps.json
+C:\Users\vishalmil\source\repos\AsyncDay1\AsyncDay1\bin\Debug\net8.0\AsyncDay1.runtimeconfig.json
+C:\Users\vishalmil\source\repos\AsyncDay1\AsyncDay1\bin\Debug\net8.0\AsyncDay1.dll
+C:\Users\vishalmil\source\repos\AsyncDay1\AsyncDay1\bin\Debug\net8.0\AsyncDay1.pdb
+C:\Users\vishalmil\source\repos\AsyncDay1\AsyncDay1\obj\Debug\net8.0\AsyncDay1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishalmil\source\repos\AsyncDay1\AsyncDay1\obj\Debug\net8.0\AsyncDay1.AssemblyInfoInputs.cache
+C:\Users\vishalmil\source\repos\AsyncDay1\AsyncDay1\obj\Debug\net8.0\AsyncDay1.AssemblyInfo.cs
+C:\Users\vishalmil\source\repos\AsyncDay1\AsyncDay1\obj\Debug\net8.0\AsyncDay1.csproj.CoreCompileInputs.cache
+C:\Users\vishalmil\source\repos\AsyncDay1\AsyncDay1\obj\Debug\net8.0\AsyncDay1.dll
+C:\Users\vishalmil\source\repos\AsyncDay1\AsyncDay1\obj\Debug\net8.0\refint\AsyncDay1.dll
+C:\Users\vishalmil\source\repos\AsyncDay1\AsyncDay1\obj\Debug\net8.0\AsyncDay1.pdb
+C:\Users\vishalmil\source\repos\AsyncDay1\AsyncDay1\obj\Debug\net8.0\AsyncDay1.genruntimeconfig.cache
+C:\Users\vishalmil\source\repos\AsyncDay1\AsyncDay1\obj\Debug\net8.0\ref\AsyncDay1.dll
