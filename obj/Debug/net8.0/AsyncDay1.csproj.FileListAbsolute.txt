@@ -12,3 +12,4 @@ C:\Users\vishalmil\source\repos\AsyncDay1\AsyncDay1\obj\Debug\net8.0\refint\Asyn
 C:\Users\vishalmil\source\repos\AsyncDay1\AsyncDay1\obj\Debug\net8.0\AsyncDay1.pdb
 C:\Users\vishalmil\source\repos\AsyncDay1\AsyncDay1\obj\Debug\net8.0\AsyncDay1.genruntimeconfig.cache
 C:\Users\vishalmil\source\repos\AsyncDay1\AsyncDay1\obj\Debug\net8.0\ref\AsyncDay1.dll
+C:\Users\vishalmil\source\repos\AsyncDay1\AsyncDay1\obj\Debug\net8.0\AsyncDay1.sourcelink.json

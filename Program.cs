@@ -9,5 +9,8 @@ public class Program
         await TransactionDemo.RunAsync();
         await EmployeeSalary.RunAsync();
         await MathsOperations.RunAsync();
+        await TPLParallel.RunAsync();
+        await TPLParallel2.RunAsync();
+        await TPLParallelSortingPLINQ.RunAsync();
     }
 }
