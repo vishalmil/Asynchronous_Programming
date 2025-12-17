@@ -12,5 +12,7 @@ public class Program
         await TPLParallel.RunAsync();
         await TPLParallel2.RunAsync();
         await TPLParallelSortingPLINQ.RunAsync();
+        await TPLReadFileOperations.RunAsync();
+        await TPLReadURLFileOperations.RunAsync();
     }
 }
